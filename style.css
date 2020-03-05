@@ -132,6 +132,13 @@ hr.light-100{
   margin-bottom:1rem;
 }
 
+.log_size{
+  height:30%;
+  width:30%;
+}
+
+
+
 /*---Media Queries --*/
 @media (max-width: 992px) {
   .social a{
